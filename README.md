@@ -6,3 +6,4 @@ This process involves:
 1. Fetching the webpage.
 2. Parsing the HTML content.
 3. Extracting data into a structured format using Python libraries.
+4. Alternative Method to Fetch Table Directly
